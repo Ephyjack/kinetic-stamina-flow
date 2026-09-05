@@ -2,7 +2,7 @@
 // Generates 7 animation sheets (128×128 frames) via Canvas 2D.
 // Flat vector knight with armor, plume, cape, and side-profile pose.
 
-const FRAME = 128;
+const FRAME = 120;
 
 interface Pose {
   hipY: number;       // hip pivot Y (frame space, feet at 124)
